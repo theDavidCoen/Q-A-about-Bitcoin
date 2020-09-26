@@ -1,1 +1,1 @@
-# Q-A-about-Bitcoin
+# Q/A about Bitcoin
