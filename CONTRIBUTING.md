@@ -23,17 +23,21 @@ License: CC0
 Added by: @thedavidcoen
 ////
 ```
+## Translations
 
-The best way to contribute to this book is by making a pull request:
+You will find translation folders inside [translations](tree/master/translations). If you don't see your language, please follow these steps:
 
 1. Login with your GitHub account or create one now
-2. Fork the `Q-A-about-Bitcoin` repository. Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
-3. Create a new branch on which to make your change, e.g. `git checkout -b my_code_contribution`, or make the change on the `develop` branch.
-4. Please do one pull request PER asciidoc file, to avoid large merges. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
-5. Edit `preface.asciidoc` and add your own name to the list of contributors under the Acknowledgment section. Use your name, or a GitHub username, or a pseudonym.
-6. Commit your change. Include a commit message describing the correction.
-7. Submit a pull request against the Q-A-about-Bitcoin repository.
-8. I currently use one line per sentence to make reviewing of pull requests and diffs easier. Make sure to follow this style guide and **turn off auto formatting** of your editor.
+2. Fork the `Q-A-about-Bitcoin` repository. Create your language folder under [translations](tree/master/translations). Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
+3. Please do one pull request PER asciidoc file, to avoid large merges. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
+4. Edit `preface.asciidoc` and add your own name to the list of contributors under the Acknowledgment section. Use your name, or a GitHub username, or a pseudonym.
+5. Commit your change. Include a commit message describing the correction.
+6. Submit a pull request against the Q-A-about-Bitcoin repository.
+7. I currently use one line per sentence to make reviewing of pull requests and diffs easier. Make sure to follow this style guide and **turn off auto formatting** of your editor.
+
+## Contributing with new material or corrections
+
+Do the steps above without creating language folders but working on the already available files.
 
 ## Contributing with an issue
 
