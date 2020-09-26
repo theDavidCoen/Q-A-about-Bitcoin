@@ -20,8 +20,7 @@ The current status of the book is "PUBLISHED". The second edition and the transl
 Total Word Count: 
 
 ## Contributing
-
-The authors welcome contributions to this book! Read the [Guide to Contributing](CONTRIBUTING.md)
+I warmly invite you to contribute to this book, with corrections, new materials and transations. Read the [Guide to Contributing](CONTRIBUTING.md)
 
 ## Source and license
 Q/A About Bitcoin is released under the Creative Commons CC-BY-NC-ND license. This license requires that reusers give credit to the creator. It allows reusers to copy and distribute the material in any medium or format, for noncommercial purposes only. If others remix, adapt, or build upon the material, they may not distribute the modified material.
