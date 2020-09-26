@@ -1,13 +1,16 @@
 # Q/A about Bitcoin
-
-
+## From the blockchain concept to the definition of the LNP/BP suite 
 <img src="images/covers/6x9_BW_200 ENGLISH finale.jpg" width=300 alt="Q/A about Bitcoin">
 
-## About
+## About the book
 This book is a collection of questions and answers about Bitcoin and the underliyng technologies. It is a study on Bitcoin technology, not a financial document.
 Nothing in this book should be considered a financial advice or a recommendation to invest or buy any good.
 
 The book is suitable even for non-technical readers without an understanding of the fundamentals of Bitcoin and Lightning Network.
+
+## About the author
+David Coen is a freelance IT consultant, author of "Q/A about Bitcoin" and QA consultant for Edge Wallet.
+Supporter of the concept of LNP/BP suite in reference to the layerization of Bitcoin.
 
 ## Status
 
