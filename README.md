@@ -1,7 +1,7 @@
 # Q/A about Bitcoin
 
 
-<img src="6x9_BW_200 ENGLISH finale.jpg" width=200 alt="Q/A about Bitcoin">
+<img src="images/covers/6x9_BW_200 ENGLISH finale.jpg" width=200 alt="Q/A about Bitcoin">
 
 ## About
 This book is a collection of questions and answers about Bitcoin and the underliyng technologies. It is a study on Bitcoin technology, not a financial document.
