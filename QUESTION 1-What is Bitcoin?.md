@@ -1,4 +1,4 @@
-**What is Bitcoin?**
+## What is Bitcoin? ##
 
 In the Bitcoin whitepaper
 , the document explaining the main features of this system, we read:
