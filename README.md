@@ -15,10 +15,13 @@ Supporter of the concept of LNP/BP suite in reference to the layerization of Bit
 ## Status
 
 The current status of the book is "PUBLISHED". The second edition and the translations (Italian and Spanish exluded) are "IN PROGRESS". 
+Contents already published are available [here](https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/Contents.md).
+
+New contents in the table below:
 
 | Question | Length (Word Count) |  Status |
 |-------|------|:------:|
-| [Preface and Acknowledgments](preface.asciidoc) | ### | :arrows_clockwise: |
+| [test](#) | ### | :arrows_clockwise: |
 
 Total Word Count: 
 
