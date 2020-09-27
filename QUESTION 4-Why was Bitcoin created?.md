@@ -1,3 +1,5 @@
+## Why was Bitcoin created? ##
+
 Bitcoin was created above all to bring into the digital world what happens in the material world: **the possibility of exchanging value directly without resorting to a trusted intermediary**.
 
 The second reason, expressed in the whitepaper, is to generate totally **irreversible transactions** , avoiding fraud against those who accept payment in cash in exchange for goods/services, without resorting to a reliable intermediary, which is not possible with previous technologies.
