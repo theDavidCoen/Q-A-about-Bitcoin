@@ -1,3 +1,5 @@
+## Is Bitcoin owned by someone (or some company)? ##
+
 Bitcoin is an open source project; its codes, which contain the rules and the logic of the network, are free to use.
 
 We can analyze the code, actively participate in its modification and in the correction of any bugs, distribute it, copy it and modify it, even realizing our own version of the system, not compatible with the Bitcoin network rules.
