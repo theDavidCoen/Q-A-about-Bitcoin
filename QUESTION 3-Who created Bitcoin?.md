@@ -1,3 +1,4 @@
+## Who created Bitcoin? ##
 Bitcoin was made public in October 31, 2008 through a Whitepaper, a document describing the basic features of the system, sent to the participants of a mailing list dedicated to cryptography, associated with the website metzdowd.com.
  The creator of the system is an individual or group of people known by the pseudonym of Satoshi Nakamoto, of which there is no more news since 2010.
 
