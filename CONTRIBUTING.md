@@ -11,14 +11,14 @@ You have access to the English version of the book. I will add draft and commit 
 
 All contributions must be properly licensed and attributed. If you are contributing your own original work, then you are offering it under a CC-BY license (Creative Commons Attribution). *You are responsible for adding your own name or pseudonym in the Acknowledgments section in the [Preface](preface.asciidoc), as attribution for your contribution.*
 
-If you are sourcing a contribution from somewhere else, it must carry a compatible license. The book will initially be released under a CC-BY-NC-ND license which means that contributions must be licensed under open licenses such as MIT, CC0, CC-BY, etc. Contributions under a "share-alike" or GPL license are not compatible with the CC-BY-NC-ND license and therefore cannot be accepted. You need to indicate the original source and original license, by including an asciidoc markup comment above your contribution. For example, for this CONTRIBUTING.md file, I used part of the Andreas M. Antonopoulos CONTRIBUTING.md file available [here](https://github.com/lnbook/lnbook/blob/develop/CONTRIBUTING.md).
+If you are sourcing a contribution from somewhere else, it must carry a compatible license. The book will initially be released under a CC-BY-NC-ND license which means that contributions must be licensed under open licenses such as MIT, CC0, CC-BY, etc. Contributions under a "share-alike" or GPL license are not compatible with the CC-BY-NC-ND license and therefore cannot be accepted. You need to indicate the original source and original license, by including a markdown comment above your contribution. For example, for this CONTRIBUTING.md file, I used part of the Andreas M. Antonopoulos CONTRIBUTING.md file available [here](https://github.com/lnbook/lnbook/blob/develop/CONTRIBUTING.md).
 
 ```
-////
+<!-- 
 Source: https://github.com/lnbook/lnbook/blob/develop/CONTRIBUTING.md
 License: CC-BY-SA
 Added by: @aantonop
-////
+-->
 ```
 ## Translations
 
