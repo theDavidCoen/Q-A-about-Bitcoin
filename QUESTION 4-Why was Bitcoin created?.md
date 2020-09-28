@@ -17,7 +17,7 @@ In this table I have collected the main features of the fiat cash system, ie leg
 
 Let us analyze these characteristics and the critical points linked to them.
 
-![](RackMultipart20200927-4-wmgzts_html_51742dcd136a2544.jpg)
+<img src="images/cash%20vs%20cashless%20vs%20bitcoin.jpg" width="600" alt="cash vs cashless vs bitcoin">
 
 Let&#39;s start with the technical aspect. Although of crucial importance, it is barely taken into consideration, especially by the press or by those who &quot;are not in the sector&quot;, who is not interested in Bitcoin for the moment and/or have not had the opportunity to study the network&#39;s protocols.
 
@@ -38,7 +38,7 @@ Millions of users were prevented from making payments for several hours: an impo
 
 &quot;_Don&#39;t worry! If you can&#39;t pay, you haven&#39;t suffered any theft or hacking&quot;_ The Spanish Guardia Civil reported on Twitter.
 
-![](RackMultipart20200927-4-wmgzts_html_143b5b3c5e6f22fc.png)
+<img src="images/Annotazione%202019-08-24%20172734.png" width="600" alt="cash vs cashless vs bitcoin">
 
 Ironically, it was discovered that users could not make transactions through the Visa circuit but were still able to withdraw cash from the ATMs[3].
 
