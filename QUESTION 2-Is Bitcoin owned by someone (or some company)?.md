@@ -26,5 +26,5 @@ The system by itself does not allow us to earn, but this does not mean that appl
 
 Think about pay per view services like Netflix, created thanks to the Internet, free and open source system, or &quot;free&quot; services - you actually pay for their use with your data - like Facebook, whose developers are regularly paid and in some cases even handsomely.
 
-<img src="images/covers/connection.jpg" width=200 alt="P2P">
+<img src="images/covers/connection.jpg" width=1000 alt="P2P">
 
