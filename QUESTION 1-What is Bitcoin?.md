@@ -1,6 +1,6 @@
 ## What is Bitcoin? ##
 
-In the Bitcoin whitepaper
+In the Bitcoin whitepaper [1]
 , the document explaining the main features of this system, we read:
 
 &quot;_ **Bitcoin: A Peer-to-Peer Electronic Cash System&quot;** _
