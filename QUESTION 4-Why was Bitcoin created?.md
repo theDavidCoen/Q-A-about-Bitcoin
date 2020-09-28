@@ -31,7 +31,7 @@ Science fiction? Not really, perhaps a little paranoia. But analyzing the potent
 
 We should not think of the centralized system as exposed only to external attacks: internal threats should also be considered. These are not necessarily voluntary attacks on the network, but can be technical problems of a more serious nature.
 
-On June 1, 2018, Visa suffered a heavy interruption of the service which caused the impossibility to execute transactions on the circuit in the UK and in the rest of Europe.
+On June 1, 2018, Visa suffered a heavy interruption of the service[2] which caused the impossibility to execute transactions on the circuit in the UK and in the rest of Europe.
 
 Millions of users were prevented from making payments for several hours: an important damage, especially if we consider that individuals also use electronic payment systems to purchase basic necessities.
  Real panic arose, which even forced some governments to issue reassurance notices to citizens.
@@ -40,19 +40,19 @@ Millions of users were prevented from making payments for several hours: an impo
 
 ![](RackMultipart20200927-4-wmgzts_html_143b5b3c5e6f22fc.png)
 
-Ironically, it was discovered that users could not make transactions through the Visa circuit but were still able to withdraw cash from the ATMs.
+Ironically, it was discovered that users could not make transactions through the Visa circuit but were still able to withdraw cash from the ATMs[3].
 
-A week later, the &quot;rival&quot; Mastercard system suffered a similar crash.
+A week later, the &quot;rival&quot; Mastercard system suffered a similar crash[4].
 
- Two months earlier, Mastercard recorded downtime in the United States.
+ Two months earlier, Mastercard recorded downtime in the United States[5].
 
-As rightly noted by the economic journalist Brett Scott in the article published by The Guardian entitled &quot;_The cashless society is a con – and big finance is behind it_&quot;
+As rightly noted by the economic journalist Brett Scott in the article published by The Guardian entitled &quot;_The cashless society is a con – and big finance is behind it_&quot;[6]
 
 &quot;_Digital systems may be &quot;convenient&quot;, but they often come with central points of failure. Cash, on the other hand, does not crash.&quot;_
 
 Indeed, the concept applies to both banknotes and Bitcoin, a digital cash system.
 
-Think of it. In its ten-year history, Bitcoin records an uptime of 99.985%: the only two events that caused a temporary interruption of service (in 2010 and 2013), occurred at times when the network was in its infancy and the number of nodes that supported it were very limited, demonstrating that networks tending to centralization (or centralized, such as &quot;classic&quot; systems) are more subject to systemic crashes..
+Think of it. In its ten-year history, Bitcoin records an uptime of 99.985%: the only two events that caused a temporary interruption of service (in 2010 and 2013), occurred at times when the network was in its infancy and the number of nodes that supported it were very limited, demonstrating that networks tending to centralization (or centralized, such as &quot;classic&quot; systems) are more subject to systemic crashes.
 
 Today, more than 9,000 nodes (according to Luke Dashjr there are actually more than 60,000 nodes!) actively supporting the network and there are more than 10 different implementations of the software running on these machines; this drastically reduces the risk of a system collapse.
 
@@ -94,9 +94,9 @@ You understand that this is a political choice that limits individual freedoms.\
 
 At this point there are those who say: &quot;_We want to protect the customer from potential scams and highly speculative investments_.&quot; To which I reply: &quot;_Are we users capable of judgment? Why do we need protection?_&quot;.
 
-Some realities see this centralization of the system as a way to strengthen competition in financial services but also to tackle money laundering and tax evasion. In this sense, banks, refusing to authorize transactions related to the &quot;crypto world&quot;, would avoid being facilitators in case of crimes involving transactions through Bitcoin or other cryptocurrencies.
+Some realities see this centralization of the system as a way to strengthen competition in financial services but also to tackle money laundering and tax evasion. In this sense, banks, refusing to authorize transactions related to the &quot;crypto world&quot;, would avoid being facilitators in case of crimes involving transactions through Bitcoin or other cryptocurrencies[7].
 
-Others claim that digital payments protect consumers from being robbed or losing money.
+Others claim that digital payments protect consumers from being robbed or losing money[8].
 
 In the example above, the problem could be solved by changes to the internal policy or, more radically, by changing banks.
 
@@ -106,7 +106,7 @@ Wikileaks is an international non-profit organization, known for its activism in
 
 In 2011, following the publication by Wikileaks of confidential documents concerning the war in Afghanistan, the main payment processors, through which the organization collected donations, decided to freeze access to funds and prevent future donations through them.
 
-Among the many providers, Paypal, under growing pressure primarily from the United States, alleged that &quot;[Paypal] cannot be used for activities that encourage, promote, facilitate or instruct others to engage in illegal activities&quot;.
+Among the many providers, Paypal, under growing pressure primarily from the United States, alleged that &quot;[Paypal] cannot be used for activities that encourage, promote, facilitate or instruct others to engage in illegal activities&quot;[9].
 
 Following these unilateral initiatives, Wikileaks decided to accept donations through Bitcoin and communicated it through a tweet.
 
@@ -120,19 +120,19 @@ A form of cash, better if **sound money** , such as gold or bitcoin, is a tool t
 
 In 2009, the world crisis that began the previous year in the United States, struck down strongly on the European Community and Greece paid the price more than many other countries.
 
-According to the former prime minister George Papandreou, previous governments falsified budgets to allow Greece to enter the Euro. In 2015, perhaps the most serious year for the Greek economy, the credit institutions were closed by order of the government and, at their reopening, cash withdrawals were limited to 60 euros a day in order to avoid the total collapse of the banking system.
+According to the former prime minister George Papandreou, previous governments falsified budgets to allow Greece to enter the Euro. In 2015, perhaps the most serious year for the Greek economy, the credit institutions were closed by order of the government and, at their reopening, cash withdrawals were limited to 60 euros a day in order to avoid the total collapse of the banking system[10].
 
 At the beginning of September 2019 the Central Bank of Argentina announced further checks on money in an attempt to tame speculation and stem a steadily growing debt spiral. Citizens who purchase foreign currencies are required to take an oath: they declare to wait at least five days before buying bonds using the newly purchased foreign currencies.
 
 The reason is soon said: it was customary to buy bonds with dollar and then sell them in pesos and get a profit of around 5%.
 
-This measure follows the limit of money in foreign currency that each individual can buy, amounting to 10,000 USD per month.
+This measure follows the limit of money in foreign currency that each individual can buy, amounting to 10,000 USD per month[11].
 
 In addition to capital control and therefore to direct money control measures, the State can also activate surveillance systems on the population by exploiting the intrinsic characteristics of centralized digital payment instruments.
 
 In Hong Kong, the summer of 2019, a political protest was held several times in contrast with the Chinese influence on the governance of the special administrative region.
 
-This time the casus belli related to an amendment to the extradition law which, if approved by the Parliament, would actually have allowed China to carry out the trials of crimes committed in Hong Kong.
+This time the casus belli related to an amendment to the extradition law which, if approved by the Parliament, would actually have allowed China to carry out the trials of crimes committed in Hong Kong[12].
 
  Common Law, a legal system different from that in China, is in force in Hong Kong.
  The protest therefore wanted to prevent part of the judicial power from being transferred to another State, with another legal system.
@@ -143,15 +143,15 @@ This time the casus belli related to an amendment to the extradition law which, 
 Guess who owns over 75% of the Mass Transit Railway Corporation?
 
 Exactly, the Hong Kong government.
- The government is the majority shareholder of Octopus Holding, which manages the Octopus card and therefore collects data on the transport, consumption and security of citizens&#39; private homes.
+ The government is the majority shareholder of Octopus Holding, which manages the Octopus card and therefore collects data on the transport, consumption and security of citizens&#39; private homes[13].
 
 Why this preamble?
 
-Citizens, fearing that their card data could be traced and used as evidence of their participation in the protests, started buying disposable tickets for public transport instead of using their Octopus card. This fear is more than justified by a precedent: the police had used similar tracking techniques during the 2014 protests organized by the pro-democracy movement called Umbrella and had exploited them in court against the main protest leaders.
+Citizens, fearing that their card data could be traced and used as evidence of their participation in the protests, started buying disposable tickets for public transport instead of using their Octopus card. This fear is more than justified by a precedent: the police had used similar tracking techniques during the 2014 protests organized by the pro-democracy movement called Umbrella and had exploited them in court against the main protest leaders[14][15].
 
 You will understand how a centralized financial instrument lends itself well to state control over citizens&#39; political activities, especially if this turns out to be a non-democratic regime.
 
-According to a recent study by the Human Rights Foundation (HRF), the world currently has just over 100 democracies that govern over 47% of the world&#39;s population; 40 authoritarian regimes that govern 1.2 billion people and 53 full-fledged dictatorships that oppress 2.8 billion people or 30% of the world&#39;s countries.
+According to a recent study by the Human Rights Foundation (HRF), the world currently has just over 100 democracies that govern over 47% of the world&#39;s population; 40 authoritarian regimes that govern 1.2 billion people and 53 full-fledged dictatorships that oppress 2.8 billion people or 30% of the world&#39;s countries[16].
 
 Let us return to considering the activity of the third party, in this case the State, on monetary policy and we arrive at economic issues.
 
@@ -204,7 +204,7 @@ Due to the cashless society, individuals&#39; savings could actually be discoura
 
 People would pay the banks to keep their deposits instead of earning interest from them. Loans on the part of the banks and greater investments by the companies would thus be stimulated; they would push individuals to spend rather than save.
 
-It may seem like laudable initiatives in the short term, but in the end the transformation of the individual from a protagonist of the monetary system to a pure passive consumer would be completed.
+It may seem like laudable initiatives in the short term, but in the end the transformation of the individual from a protagonist of the monetary system to a pure passive consumer would be completed[17].
 
 
 To sum up, on the one hand we have a monetary system that tends to the realization of the so-called cashless society, that is a society without cash in which the value between individuals is exchanged exclusively through financial intermediaries with all the issues that ensue, on the other we have a system, called Bitcoin, in which individuals exchange value directly with each other, created to drastically reduce the technical-political-economic issues of the previous system and achieve the separation of money from the State, as in the past separation from the Church has been achieved in democratic regimes based on the rule of law.
