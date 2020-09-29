@@ -15,7 +15,7 @@ Supporter of the concept of LNP/BP suite in reference to the layerization of Bit
 ## Status
 
 The current status of the book is "PUBLISHED". 
-You can buy the book on [Amazon](https://www.amazon.com/dp/1697134785) or via [qabitcoin.davidcoen.it](https://qabitcoin.davidcoen.it) and pay in BTC.
+You can buy the book on [Amazon](https://www.amazon.com/dp/1697134785) or via [qabitcoin.davidcoen.it](https://qabitcoin.davidcoen.it) and pay in BTC and so help the project.
 The second edition and the translations (Italian and Spanish exluded) are "IN PROGRESS".
 Index available [here](https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/Contents.md).
 
