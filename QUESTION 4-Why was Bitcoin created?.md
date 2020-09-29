@@ -38,7 +38,7 @@ Millions of users were prevented from making payments for several hours: an impo
 
 &quot;_Don&#39;t worry! If you can&#39;t pay, you haven&#39;t suffered any theft or hacking&quot;_ The Spanish Guardia Civil reported on Twitter.
 
-<img src="images/Annotazione%202019-08-24%20172734.png" width="600" alt="cash vs cashless vs bitcoin">
+<img src="images/Annotazione%202019-08-24%20172734.png" width="600" alt="guardia civil">
 
 Ironically, it was discovered that users could not make transactions through the Visa circuit but were still able to withdraw cash from the ATMs[3].
 
@@ -84,7 +84,7 @@ These are not examples in the air and certainly do not represent a serious case 
 
 Here a recent example:
 
-![](RackMultipart20200927-4-wmgzts_html_8afc1ef1b00667f2.jpg)
+<img src="images/well%20fargo.JPG" width="400" alt="well fargo">
 
 This person wanted to buy cryptocurrencies on CashApp and Coinbase using his debit card provided by Well Fargo, one of the four big US banks. The transaction was rejected because:
 
@@ -110,7 +110,9 @@ Among the many providers, Paypal, under growing pressure primarily from the Unit
 
 Following these unilateral initiatives, Wikileaks decided to accept donations through Bitcoin and communicated it through a tweet.
 
-![](RackMultipart20200927-4-wmgzts_html_2ddc3667deb9763c.png)On this address it received more than 4,000 bitcoins.
+<img src="images/Annotazione%202019-10-18%20104453.png" width="400" alt="wikileaks">
+
+On this address it received more than 4,000 bitcoins.
 
 **Money Control and State of Surveillance**
 
@@ -225,6 +227,7 @@ It is convenient at this point to take up the comparison table between cash, cas
 
 - _Travis Kling on CNN, September 13, 2019_
 
-![](RackMultipart20200927-4-wmgzts_html_103bdac6bada86d9.jpg) \* Note, for the record, that, after the protest by the users, Well Fargo seems to have decided to allow the purchase of bitcoins and other cryptocurrencies through debit cards, while maintaining the ban on the use of credit cards.
+<img src="images/PIRAMIDE.jpg" width="400" alt="USD pyramid">
 
-![](RackMultipart20200927-4-wmgzts_html_533ecf0191a7a38e.jpg)
+\* Note, for the record, that, after the protest by the users, Well Fargo seems to have decided to allow the purchase of bitcoins and other cryptocurrencies through debit cards, while maintaining the ban on the use of credit cards.
+<img src="images/well%20fargo2.JPG" width="400" alt="well fargo">
