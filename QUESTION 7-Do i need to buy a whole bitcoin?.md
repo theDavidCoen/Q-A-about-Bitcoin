@@ -10,7 +10,7 @@ In everyday life we also use cents and we know that 100 cents make a whole euro.
 For bitcoins things work in a similar way but with eight decimal places.
 
 **1 bitcoin can be represented as follows: 1.00000000**. It can be deduced that the smallest part of bitcoin is this: 0.00000001 bitcoin.
-<img src="images/bitcoin%20fatto%20da%20satoshi.jpg" whight="400" alt="divisible">
+<img src="images/bitcoin%20fatto%20da%20satoshi.jpg" width=1000 alt="divisible">
 This basic unit, as mentioned above, is named after the Bitcoin creator and is referred to as satoshi.
 
 **It takes exactly 100 million satoshis to form a whole bitcoin**.
