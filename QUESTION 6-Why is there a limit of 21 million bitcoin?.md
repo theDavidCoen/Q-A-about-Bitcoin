@@ -13,4 +13,4 @@ In reality, this is not the case.
 We can define it as a &quot; **scarce asset**&quot; since a limit to its inflation, to the amount of &quot;coins&quot; that can be &quot;minted&quot;, has been established within the protocol, but it is certainly not uncommon or rare. Bitcoin can be defined as a &quot;scarce asset&quot;, because it has precisely one of the characteristics that make a good gain value: **scarcity**.
 
 The famous 21 million bitcoins, which are not 21 anyway - approximating by excess will be 20999949.9769 in 2140 [18] - are only a useful convention to understand this limitation, in a jargon called total supply.
-<img src="images/Wall.jpg" weight="400" alt="21 million cap">
+<img src="images/Wall.jpg" width=500 alt="21 million cap">
