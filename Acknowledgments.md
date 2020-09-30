@@ -21,3 +21,10 @@ Raljoseph Ricasata (@ rjrs2k), for the valuable feedback and the extraordinary b
 Silvia Bossio and Stefania Pezzoli for having previewed the text and provided feedback from the point of view of the bitcoiner and nocoiner reader.
 
 Thanks to those who actively work on the Bitcoin code, on Lightning Network and on the layers of the LNP/BP suite and, in general, to the community that chose the cover of this book, supported me, provided interesting ideas and got me thinking.
+
+ ## Contributions ##
+Contributors that offered comments, corrections, and additions to the book as it was collaboratively written on GitHub, can add their name here.
+
+Following is an alphabetically sorted list of all the GitHub contributors, including their GitHub IDs in parentheses:
+
+Giacomo Zucco (@giacomozucco)
