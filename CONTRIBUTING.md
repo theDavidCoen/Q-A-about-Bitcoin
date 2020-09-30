@@ -9,7 +9,7 @@ You have access to the English version of the book. I will add draft and commit 
 
 ## License and attribution
 
-All contributions must be properly licensed and attributed. If you are contributing your own original work, then you are offering it under a CC-BY license (Creative Commons Attribution). *You are responsible for adding your own name or pseudonym in the Acknowledgments section in the [Preface](preface.asciidoc), as attribution for your contribution.*
+All contributions must be properly licensed and attributed. If you are contributing your own original work, then you are offering it under a CC-BY license (Creative Commons Attribution). *You are responsible for adding your own name or pseudonym in the Acknowledgments section in the [Acknowledgments](Acknowledgments.md), as attribution for your contribution.*
 
 If you are sourcing a contribution from somewhere else, it must carry a compatible license. The book will initially be released under a CC-BY-NC-ND license which means that contributions must be licensed under open licenses such as MIT, CC0, CC-BY, etc. Contributions under a "share-alike" or GPL license are not compatible with the CC-BY-NC-ND license and therefore cannot be accepted. You need to indicate the original source and original license, by including a markdown comment above your contribution. For example, for this CONTRIBUTING.md file, I used part of the Andreas M. Antonopoulos CONTRIBUTING.md file available [here](https://github.com/lnbook/lnbook/blob/develop/CONTRIBUTING.md).
 
@@ -27,7 +27,7 @@ You will find translation folders inside [translations](tree/master/translations
 1. Login with your GitHub account or create one now
 2. Fork the `Q-A-about-Bitcoin` repository. Create your language folder under [translations](tree/master/translations). Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
 3. Please do one pull request PER asciidoc file, to avoid large merges. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
-4. Edit `preface.asciidoc` and add your own name to the list of contributors under the Acknowledgment section. Use your name, or a GitHub username, or a pseudonym.
+4. Edit [Acknowledgments](Acknowledgments.md) and add your own name to the list of contributors under the Contributions section. Use your name, or a GitHub username, or a pseudonym.
 5. Commit your change. Include a commit message describing the correction.
 6. Submit a pull request against the Q-A-about-Bitcoin repository.
 7. I currently use one line per sentence to make reviewing of pull requests and diffs easier. Make sure to follow this style guide and **turn off auto formatting** of your editor.
@@ -46,7 +46,7 @@ Create a [new Issue](https://github.com/theDavidCoen/Q-A-about-Bitcoin/issues/ne
 
 Adjust heading style in each section as follows:
 
-1. Only the chapter/section should be level 2, everything else should be level 3 and below (level 1 is the book title itself). Each asciidoc file should start with a "==" heading.
+1. Only the chapter/section should be level 2, everything else should be level 3 and below (level 1 is the book title itself). Each markdown file should start with a "##" heading.
 2. Headings should be all lower case, except for first letter, proper nouns and acronyms. "What is Bitcoin?", "What is the blockchain?" etc.
 3. Acronyms are spelled out, capitalized, with the acronym in parentheses (e.g. "Hash Time-Locked Contract (HTLC)"). Once you have spelled out an acronym in one heading, we can keep it as an acronym only in subsequent headings.
 4. No period at the end of headings. Question mark if it is a question (generally avoid question headings, unless really appropriate)
@@ -59,23 +59,19 @@ Complete Example:
 
 ```
 [[intro_to_ln]]
-== Introduction to the Lightning Network
+## Introduction to the Lightning Network ##
 
 This is the intro paragraph.
 
 [[htlcs_explained]]
-=== All about Hash Time-Locked Contracts (HTLCs)
+** All about Hash Time-Locked Contracts (HTLCs) **
 
 As we saw in <<intro_to_ln>>, the intro paragraph is superb!
 
 ```
 
-## Line endings
 
-All submission should use Unix-like line endings: LF (not CR, not CR/LF). All the postprocessing is done on Unix-like systems. Incorrect line endings, or changes to line endings cause confusion for the diff tools and make the whole file look like it has changed.
-
-If you are unsure or your OS makes things difficult, consider using a developer's text editor such as Atom.
 
 ## Thanks
 
-We are very grateful for the support of the entire Lightning Network community. With your help, this will be a great book that can help thousands of developers get started and eventually "master" LN. Thank you!
+With your help, this will be a great second edition that can help thousands of users get started and eventually embrace the Bitcoin revolution. Thank you!
