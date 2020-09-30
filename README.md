@@ -9,8 +9,8 @@ Nothing in this book should be considered a financial advice or a recommendation
 The book is suitable even for non-technical readers without an understanding of the fundamentals of Bitcoin and Lightning Network.
 
 ## About the author
-David Coen is a freelance IT consultant, author of "Q/A about Bitcoin" and QA consultant for Edge Wallet.
-Supporter of the concept of LNP/BP suite in reference to the layerization of Bitcoin.
+David Coen is a freelance IT consultant, author of "Q/A about Bitcoin" and QA consultant for [Edge Wallet](https://github.com/EdgeApp).
+Supporter of the concept of [LNP/BP](https://github.com/LNP-BP/LNPBPs) suite in reference to the layerization of Bitcoin.
 
 ## Status
 
