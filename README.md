@@ -23,7 +23,8 @@ New contents in the table below:
 
 | Question | Length (Word Count) |  Status |
 |-------|------|:------:|
-| [test](#) | ### | :arrows_clockwise: |
+| [Why Wrapped bitcoins are not bitcoins?](#) | ### | :arrows_clockwise: |
+| [Why bitcoins are indeed bitcoins?](#) | ### | :arrows_clockwise: |
 
 Total Word Count: 
 
