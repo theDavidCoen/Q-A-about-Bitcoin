@@ -1,5 +1,9 @@
 # Q/A about Bitcoin
 ## From the blockchain concept to the definition of the LNP/BP suite 
+
+
+## // The entire book in Spanish [markdown version](https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/translations/Spanish/Full%20-%20Word%20to%20Markdown.md) to be divided in chapters just like in the English folder.PLEASE HELP! //
+
 <img src="images/covers/6x9_BW_200 ENGLISH finale.jpg" width=300 alt="Q/A about Bitcoin">
 
 ## About the book
