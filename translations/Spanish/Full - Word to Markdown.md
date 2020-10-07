@@ -16,7 +16,7 @@ Autor: David Coen
 [info@davidcoen.it](mailto:info@davidcoen.it)
 PGP Fingerprint: 5351632CBBF23EF29F1815ACD270A7681AE508EA
 
-![](RackMultipart20201003-4-15etbbg_html_829fe2cc5fbc9e2d.png)
+
 
 Ilustraciones: Marianna Prina
 
