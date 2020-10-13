@@ -62,7 +62,7 @@ QUESTION 1-What is Bitcoin?.md
 
 This is the intro paragraph.
 
-As we saw in [intro](/intro), the intro paragraph is superb!
+As we saw in [intro](/intro.md), the intro paragraph is superb!
 
 ```
 
