@@ -1,3 +1,3 @@
-## Text form of the back cover ##
+## Text from the back cover ##
 
 text to be added
