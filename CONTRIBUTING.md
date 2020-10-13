@@ -25,8 +25,9 @@ Added by: @aantonop
 You will find translation folders inside [translations](tree/master/translations). If you don't see your language, please follow these steps:
 
 1. Login with your GitHub account or create one now
-2. Fork the `Q-A-about-Bitcoin` repository. Create your language folder under [translations](tree/master/translations). Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
-3. Please do one pull request PER asciidoc file, to avoid large merges. Edit the asciidoc file where you want to make a change or create a new asciidoc file in the `contrib` directory if you're not sure where your contribution might fit.
+2. Fork the `Q-A-about-Bitcoin` repository. Create your language folder under [translations](tree/master/translations) if not available. Copy the files and folders from the English version and paste them inside your language folder. Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
+IF the language folder is already available and it has already files inside, please work on the single markdown, one at the time.
+3. If possible, please do one pull request PER markdown file, to avoid large merges. Edit the markdown file where you want to make a change or create a new markdown file in the [messy](/messy) directory if you're not sure where your contribution might fit.
 4. Edit [Acknowledgments](Acknowledgments.md) and add your own name to the list of contributors under the Contributions section. Use your name, or a GitHub username, or a pseudonym.
 5. Commit your change. Include a commit message describing the correction.
 6. Submit a pull request against the Q-A-about-Bitcoin repository.
@@ -34,7 +35,7 @@ You will find translation folders inside [translations](tree/master/translations
 
 ## Contributing with new material or corrections
 
-Do the steps above without creating language folders but working on the already available files.
+Do the steps above without creating language folders but working on the already available files. Edit the markdown file where you want to make a change or create a new markdown file in the [messy](/messy) directory if you're not sure where your contribution might fit.
 
 ## Contributing with an issue
 
@@ -49,24 +50,19 @@ Adjust heading style in each section as follows:
 1. Only the chapter/section should be level 2, everything else should be level 3 and below (level 1 is the book title itself). Each markdown file should start with a "##" heading.
 2. Headings should be all lower case, except for first letter, proper nouns and acronyms. "What is Bitcoin?", "What is the blockchain?" etc.
 3. Acronyms are spelled out, capitalized, with the acronym in parentheses (e.g. "Hash Time-Locked Contract (HTLC)"). Once you have spelled out an acronym in one heading, we can keep it as an acronym only in subsequent headings.
-4. No period at the end of headings. Question mark if it is a question (generally avoid question headings, unless really appropriate)
-5. Should include a unique anchor all lower case, underscore separated, within double square brackets (e.g. [[intro_to_htlcs]]).
-6. Headings should be followed by a blank line.
-7. Heading should be followed by a paragraph of text, not a lower-level heading without any text. If you find one like this, add a TODO comment (line of 4 slashes "////", line with "TODO: add paragraph", line of 4 slashes)
-8. Often it seems useful to link to a webpage / url. Since the research community figured out that every year about 50% of all outstanding url's become invalid we encourage you to use the wayback machine / Web Archive at: http://web.archive.org and provide a link to a saved copy of the web page.
+4. No period at the end of headings. Question mark if it is a question.
+5. Headings should be followed by a blank line.
+6. Often it seems useful to link to a webpage / url. Since the research community figured out that every year about 50% of all outstanding url's become invalid we encourage you to use the wayback machine / Web Archive at: http://web.archive.org and provide a link to a saved copy of the web page.
 
 Complete Example:
 
 ```
-[[intro_to_ln]]
-## Introduction to the Lightning Network ##
+QUESTION 1-What is Bitcoin?.md
+## What is Bitcoin? ##
 
 This is the intro paragraph.
 
-[[htlcs_explained]]
-** All about Hash Time-Locked Contracts (HTLCs) **
-
-As we saw in <<intro_to_ln>>, the intro paragraph is superb!
+As we saw in [intro](/intro), the intro paragraph is superb!
 
 ```
 
