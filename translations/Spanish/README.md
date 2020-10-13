@@ -4,7 +4,7 @@
 
 ## // The entire book in Spanish [markdown version](https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/translations/Spanish/Full%20-%20Word%20to%20Markdown.md) to be divided in chapters just like in the English folder.PLEASE HELP! //
 
-<img src="images/covers/6x9_BW_200 ENGLISH finale.jpg" width=300 alt="Q/A about Bitcoin">
+<img src="https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/translations/Spanish/images/covers/6x9_BW_200%20SPANISH.jpg" width=300 alt="Q/A about Bitcoin">
 
 ## About the book
 This book is a collection of questions and answers about Bitcoin and the underliyng technologies. It is a study on Bitcoin technology, not a financial document.
