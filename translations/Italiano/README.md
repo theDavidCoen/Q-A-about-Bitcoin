@@ -1,6 +1,6 @@
-# Q/A about Bitcoin
-## From the blockchain concept to the definition of the LNP/BP suite 
-<img src="images/covers/6x9_BW_200 ENGLISH finale.jpg" width=300 alt="Q/A about Bitcoin">
+# Domande e Risposte su Bitcoin
+## Dal concetto di blockchain alla definizione della suite LNP/BP
+<img src="https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/translations/Italiano/images/covers/6x9_BW_200%20italiana%20fronte.jpg" width=300 alt="Q/A about Bitcoin">
 
 ## // The entire book in Italian [markdown version](https://github.com/theDavidCoen/Q-A-about-Bitcoin/blob/master/translations/Italiano/ITALIANO%20full%20markdown.md) to be divided in chapters just like in the English folder. PLEASE HELP! //
 
