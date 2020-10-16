@@ -26,7 +26,7 @@ You will find translation folders inside [translations](tree/master/translations
 
 1. Login with your GitHub account or create one now
 2. Fork the `Q-A-about-Bitcoin` repository. Create your language folder under [translations](tree/master/translations) if not available. Copy the files and folders from the English version and paste them inside your language folder. Work on your fork. In particular you can clone it to your local computer with `git clone https://github.com/ADD_YOUR_GIT_USER_NAME_HERE/Q-A-about-Bitcoin.git`
-IF the language folder is already available and it has already files inside, please work on the single markdown, one at the time.
+IF the language folder is already available and it has already files inside, please work on the single markdown, one at the time. DO NOT put a question mark in the file name.
 3. If possible, please do one pull request PER markdown file, to avoid large merges. Edit the markdown file where you want to make a change or create a new markdown file in the [messy](/messy) directory if you're not sure where your contribution might fit.
 4. Edit [Acknowledgments](Acknowledgments.md) and add your own name to the list of contributors under the Contributions section. Use your name, or a GitHub username, or a pseudonym.
 5. Commit your change. Include a commit message describing the correction.
