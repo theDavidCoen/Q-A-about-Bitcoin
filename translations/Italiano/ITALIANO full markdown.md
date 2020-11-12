@@ -2124,7 +2124,7 @@ Se 6 sat sono troppo alti per lei, potrebbe selezionare un limite più piccolo: 
 
 Alice e David sono entrambi collegati a Isaac, un LSP (Lightning Service Provider). Questo ha un tasso di commissione di 1000 mili mSats e un Base Fee di zero sat.
  Se Alice paga 2000 sats a David, dovrà pagare solo 2000 x 0,001 sats (tariffa) = 2 sats.
- Pagherà lo 0,01% dell&#39;importo totale come commissione.
+ Pagherà lo 0,1% dell&#39;importo totale come commissione.
  Quindi, come puoi vedere, se un utente imposta un importo massimo di commissione che è disposto a pagare, il nodo cercherà il percorso migliore con la tariffa più bassa.
 
 **Inizia il Lightning Network Fee Market**
