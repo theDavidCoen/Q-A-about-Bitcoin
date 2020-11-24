@@ -4,7 +4,7 @@
 
 ## About the book
 This book is a collection of questions and answers about Bitcoin and the underliyng technologies. It is a study on Bitcoin technology, not a financial document.
-Nothing in this book should be considered a financial advice or a recommendation to invest or buy any good.
+Nothing in this book should be considered a financial advice or a recommendation to invest or buy any goods.
 
 The book is suitable even for non-technical readers without an understanding of the fundamentals of Bitcoin and Lightning Network.
 
@@ -25,6 +25,7 @@ New contents in the table below:
 |-------|------|:------:|
 | [Why wrapped bitcoins are not bitcoins?](#) | ### | :arrows_clockwise: |
 | [Why bitcoins on Lightning Network are indeed bitcoins?](#) | ### | :arrows_clockwise: |
+| [What is an Xpub?](#) | ### | :arrows_clockwise: |
 
 Total Word Count: 
 
