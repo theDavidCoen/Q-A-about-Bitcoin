@@ -1,6 +1,6 @@
 ## What is Lightning Network? ##
 
-Lightning Network (LNP) is a structure of **payment channels** open between private individuals and/or companies and represents the scaling solution for Bitcoin; that&#39;s why we often called it also the Bitcoin&#39; Second Layer.
+Lightning Network (LNP) is a structure of **payment channels** opened between private individuals and/or companies and represents the scaling solution for Bitcoin; that&#39;s why we often called it also the Bitcoin&#39; Second Layer.
 
 With Lightning we can potentially make hundreds of thousands if not million transactions for second and so reach any part of the World (almost) instantaneously.
 
