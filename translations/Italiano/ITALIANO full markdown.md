@@ -1737,9 +1737,9 @@ Se per i primi due punti potreste fornire della argomentazioni importanti quali 
 
 1 bitcoin è frazionabile e la sua unità di base è il satoshi, dal nome del suo ideatore. 1 bitcoin = 100 milioni di satoshi.
 
-Se consideriamo quella che in genere viene definita M0 (Money Supply di tipo 0), ossia l&#39;insieme della moneta che include tutto il denaro fisico come monete di metallo e valute, depositi e altre attività liquide detenute dalle banche centrali[CITATION Inv \l 1040], e prendiamo in considerazione il Dollaro Americano, la moneta più diffusa sul pianeta e adottata come standard monetario globale, scopriamo che la quantità di denaro di questo tipo in circolazione è di circa 1,5 trilioni di dollari, ossia 1 miliardo e cinquecento milioni di miliardi, per chi non è solito utilizzare questa unità di misura.[CITATION Mit17 \l 1040]
+Se consideriamo quella che in genere viene definita M0 (Money Supply di tipo 0), ossia l&#39;insieme della moneta che include tutto il denaro fisico come monete di metallo e valute, depositi e altre attività liquide detenute dalle banche centrali[CITATION Inv \l 1040], e prendiamo in considerazione il Dollaro Americano, la moneta più diffusa sul pianeta e adottata come standard monetario globale, scopriamo che la quantità di denaro di questo tipo in circolazione è di circa 1,5 trilioni di dollari, ossia mille e cinquecento miliardi, per chi non è solito utilizzare questa unità di misura.[CITATION Mit17 \l 1040]
 
-Fanno, in numeri, 1,500,000,000,000,000,000 di dollari o 1,5 x 10^18 se preferite ragionare in potenza.
+Fanno, in numeri, 1,500,000,000,000 di dollari o 1,5 x 10^12 se preferite ragionare in potenza.
 
 Di contro, le unità presenti in Bitcoin, senza considerare la possibilità di frazionare ancora di più le unità del sistema, saranno in totale 21 000 000 di bitcoin ossia 2,100,000,000,000,000 (2 milioni e centomila miliardi) di satoshi o 2,1 x 10^15 sat.
 
