@@ -406,7 +406,7 @@ Le modifiche al network possono diventare &quot;ufficiali&quot; se la maggioranz
 
 Spesso si è portati a credere che Bitcoin venne realizzato dall&#39;oggi al domani, senza considerare che in realtà la sua storia è molto più lunga.
 
-Se infatti consideriamo Bitcoin come uno strumento nato nel 2008 e avviato all&#39;inizio del 2009, prestiamo il fianco a coloro che continuano a propagandare la cattiva trasparenza del sistema, nato &quot;_out of the thing air_&quot;.
+Se infatti consideriamo Bitcoin come uno strumento nato nel 2008 e avviato all&#39;inizio del 2009, prestiamo il fianco a coloro che continuano a propagandare la cattiva trasparenza del sistema, nato &quot;_out of the thin air_&quot;.
 
 Mi credereste se dicessi che la storia di Bitcoin inizia negli anni 70?
  No?
