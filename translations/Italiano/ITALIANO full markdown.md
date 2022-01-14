@@ -2979,7 +2979,7 @@ Master Private Key: chiave privata principale di un wallet gerarchico determinis
 
 Rete mesh: sistema di collegamento decentralizzato che fa utilizzo di nodi che fungono da ricevitori, trasmettitori e ripetitori. Una rete mesh potrebbe non aver necessità di essere connessa a Internet.
 
-Seed phrase: lista di parole (tipicamente 12 o 24) generata in modo casuale dal nostro wallet. Queste parole, messe in seguenza, permettono al wallet di generare tutti gli indirizzi legati a una specifica Master Private Key.
+Seed phrase: lista di parole (tipicamente 12 o 24) generata in modo casuale dal nostro wallet. Queste parole, messe in sequenza, permettono al wallet di generare tutti gli indirizzi legati a una specifica Master Private Key.
 
 Shitcoin: le criptovalute alternative vengono spesso nominate altcoin o shitcoin (monete di m\*\*\*a). Le caratteristiche di decentralizzazione e sicurezza di Bitcoin vengono spesso ridotte o eliminate in favore della rapidità delle transazioni su blockchain.
 
