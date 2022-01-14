@@ -1737,9 +1737,9 @@ Se per i primi due punti potreste fornire della argomentazioni importanti quali 
 
 1 bitcoin è frazionabile e la sua unità di base è il satoshi, dal nome del suo ideatore. 1 bitcoin = 100 milioni di satoshi.
 
-Se consideriamo quella che in genere viene definita M0 (Money Supply di tipo 0), ossia l&#39;insieme della moneta che include tutto il denaro fisico come monete di metallo e valute, depositi e altre attività liquide detenute dalle banche centrali[CITATION Inv \l 1040], e prendiamo in considerazione il Dollaro Americano, la moneta più diffusa sul pianeta e adottata come standard monetario globale, scopriamo che la quantità di denaro di questo tipo in circolazione è di circa 1,5 trilioni di dollari, ossia 1 miliardo e cinquecento milioni di miliardi, per chi non è solito utilizzare questa unità di misura.[CITATION Mit17 \l 1040]
+Se consideriamo quella che in genere viene definita M0 (Money Supply di tipo 0), ossia l&#39;insieme della moneta che include tutto il denaro fisico come monete di metallo e valute, depositi e altre attività liquide detenute dalle banche centrali[CITATION Inv \l 1040], e prendiamo in considerazione il Dollaro Americano, la moneta più diffusa sul pianeta e adottata come standard monetario globale, scopriamo che la quantità di denaro di questo tipo in circolazione è di circa 1,5 trilioni di dollari, ossia mille e cinquecento miliardi, per chi non è solito utilizzare questa unità di misura.[CITATION Mit17 \l 1040]
 
-Fanno, in numeri, 1,500,000,000,000,000,000 di dollari o 1,5 x 10^18 se preferite ragionare in potenza.
+Fanno, in numeri, 1,500,000,000,000 di dollari o 1,5 x 10^12 se preferite ragionare in potenza.
 
 Di contro, le unità presenti in Bitcoin, senza considerare la possibilità di frazionare ancora di più le unità del sistema, saranno in totale 21 000 000 di bitcoin ossia 2,100,000,000,000,000 (2 milioni e centomila miliardi) di satoshi o 2,1 x 10^15 sat.
 
@@ -2967,7 +2967,7 @@ FUD: Fear, Uncertainty and Doubt, ossia Paura, Incertezza e Dubbio, rappresentan
 
 Gold Standard: sistema monetario nel quale le valute sono rappresentazioni di una certa quantità di oro e sono convertibili. Fino al 1971 il Dollaro era &quot;backed by gold&quot;, ossia rappresentava una certa quantità d&#39;oro conservato nei caveau della Federal Reserve.
 
-Halving: divisione per due. In Bitcoin indica il dimezzamento del subsidy al minatore che scopre un nuovo blocco e avviene ogni quattro anni circa, ossia dopo 210,000 blocchi, a partire dal blocco 0 detto Genesis Block. Attualmente (2019) il subsidy è pari a 12,5 bitcoin e diverrà di 6,25 BTC nel 2020. Con la sua riduzione aumenta l&#39;inflazione monetaria di Bitcoin.
+Halving: divisione per due. In Bitcoin indica il dimezzamento del subsidy al minatore che scopre un nuovo blocco e avviene ogni quattro anni circa, ossia dopo 210,000 blocchi, a partire dal blocco 0 detto Genesis Block. Attualmente (2019) il subsidy è pari a 12,5 bitcoin e diverrà di 6,25 BTC nel 2020. Con la sua riduzione diminuisce l&#39;inflazione monetaria di Bitcoin.
 
 Hash: funzione matematica non invertibile. Grazie ad essa è possibile trasformare una stringa di dati di lunghezza arbitraria in una stringa di lunghezza predefinita.
 
@@ -2979,7 +2979,7 @@ Master Private Key: chiave privata principale di un wallet gerarchico determinis
 
 Rete mesh: sistema di collegamento decentralizzato che fa utilizzo di nodi che fungono da ricevitori, trasmettitori e ripetitori. Una rete mesh potrebbe non aver necessità di essere connessa a Internet.
 
-Seed phrase: lista di parole (tipicamente 12 o 24) generata in modo casuale dal nostro wallet. Queste parole, messe in seguenza, permettono al wallet di generare tutti gli indirizzi legati a una specifica Master Private Key.
+Seed phrase: lista di parole (tipicamente 12 o 24) generata in modo casuale dal nostro wallet. Queste parole, messe in sequenza, permettono al wallet di generare tutti gli indirizzi legati a una specifica Master Private Key.
 
 Shitcoin: le criptovalute alternative vengono spesso nominate altcoin o shitcoin (monete di m\*\*\*a). Le caratteristiche di decentralizzazione e sicurezza di Bitcoin vengono spesso ridotte o eliminate in favore della rapidità delle transazioni su blockchain.
 
