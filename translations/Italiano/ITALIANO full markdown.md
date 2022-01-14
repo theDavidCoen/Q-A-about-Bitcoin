@@ -2967,7 +2967,7 @@ FUD: Fear, Uncertainty and Doubt, ossia Paura, Incertezza e Dubbio, rappresentan
 
 Gold Standard: sistema monetario nel quale le valute sono rappresentazioni di una certa quantità di oro e sono convertibili. Fino al 1971 il Dollaro era &quot;backed by gold&quot;, ossia rappresentava una certa quantità d&#39;oro conservato nei caveau della Federal Reserve.
 
-Halving: divisione per due. In Bitcoin indica il dimezzamento del subsidy al minatore che scopre un nuovo blocco e avviene ogni quattro anni circa, ossia dopo 210,000 blocchi, a partire dal blocco 0 detto Genesis Block. Attualmente (2019) il subsidy è pari a 12,5 bitcoin e diverrà di 6,25 BTC nel 2020. Con la sua riduzione aumenta l&#39;inflazione monetaria di Bitcoin.
+Halving: divisione per due. In Bitcoin indica il dimezzamento del subsidy al minatore che scopre un nuovo blocco e avviene ogni quattro anni circa, ossia dopo 210,000 blocchi, a partire dal blocco 0 detto Genesis Block. Attualmente (2019) il subsidy è pari a 12,5 bitcoin e diverrà di 6,25 BTC nel 2020. Con la sua riduzione diminuisce l&#39;inflazione monetaria di Bitcoin.
 
 Hash: funzione matematica non invertibile. Grazie ad essa è possibile trasformare una stringa di dati di lunghezza arbitraria in una stringa di lunghezza predefinita.
 
